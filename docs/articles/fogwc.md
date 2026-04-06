@@ -1,6 +1,7 @@
 ---
 title: Facilitation of gatherings without credentials (FWC)
 layout: default
+parent: Articles
 ---
 
 _Last significant update: 1/4/26_
